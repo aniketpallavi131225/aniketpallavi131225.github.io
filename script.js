@@ -1,3 +1,3 @@
 function showMessage() {
-  alert("Hello! I Love You My Jaan Baby, 💓💕❤️💕❤️💕❤️💕❤️💕❤️💕❤️💕❤️💕");
+  alert("NAYA MESSAGE 😎 JavaScript kaam kar rahi hai");
 }
